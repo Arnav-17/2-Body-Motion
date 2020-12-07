@@ -28,7 +28,7 @@ y1 = []
 
 
 def func(r_0, theta_0, u_0, t_0, h):
-    x = -0.80  # initial value of x
+    x = -0.98  # initial value of x
     y = 0      # initial value of y
     for i in range(1, n + 1):
         m1 = h * u_0
